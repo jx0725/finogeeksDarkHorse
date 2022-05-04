@@ -1,0 +1,4 @@
+<!--pages/mapbaidu/mapbaidu.wxml-->
+<text>pages/mapbaidu/mapbaidu.wxml</text>
+
+<map name="" map="baidu"></map>

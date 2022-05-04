@@ -1,0 +1,24 @@
+{
+  "pages":[
+    "pages/mapindex/mapindex",
+    "pages/mapamap/mapamap",
+    "pages/mapgoogle/mapgoogle",
+    "pages/mapbaidu/mapbaidu",
+    "pages/mapalltype/mapalltype",
+    "pages/jumppage/index",
+    "pages/mapmultiple/mapmultiple",
+    "pages/maplearn/index",
+    "pages/mappure/mappure",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "debug": true
+}

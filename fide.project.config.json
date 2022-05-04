@@ -1,0 +1,14 @@
+{
+  "description": "项目配置文件",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "skipCompileWatch": false,
+    "enableNewBuilder": false,
+    "useOldBuilder": false
+  },
+  "compileType": "miniprogram",
+  "projectname": "map-demo",
+  "isGameTourist": false
+}

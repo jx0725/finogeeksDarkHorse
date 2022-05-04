@@ -1,0 +1,4 @@
+<!--pages/mapgoogle/mapgoogle.wxml-->
+<text>pages/mapgoogle/mapgoogle.wxml</text>
+
+<map name="" map="google"></map>

@@ -1,0 +1,10 @@
+<!--pages/mapalltype/mapalltype.wxml-->
+<text>pages/mapalltype/mapalltype.wxml</text>
+<view>amap</view>
+<map name="" map="amap"></map>
+<view>baidu</view>
+<map name="" map="baidu"></map>
+<view>google</view>
+<map name="" map="google"></map>
+<view>auto</view>
+<map name=""></map>

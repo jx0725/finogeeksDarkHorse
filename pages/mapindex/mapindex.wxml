@@ -1,0 +1,12 @@
+
+<button bindtap="goMaplearn">地图（测试用例）</button>
+
+<button bindtap="goPureMap">空地图（属性都不传）</button>
+
+<button bindtap="goMapMultiple">地图（多实例）</button>
+
+<!-- <button bindtap="testtoast">testtoast</button> -->
+<button bindtap="goNewMap" data-maptype="mapamap">amap地图</button>
+<button bindtap="goNewMap" data-maptype="mapgoogle">google地图</button>
+<button bindtap="goNewMap" data-maptype="mapbaidu">baidu地图</button>
+<button bindtap="goNewMap" data-maptype="mapalltype">alltype地图</button>

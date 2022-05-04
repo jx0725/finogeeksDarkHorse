@@ -1,0 +1,3 @@
+<!--pages/mapamap/mapamap.wxml-->
+<text>pages/mapamap/mapamap.wxml</text>
+<map name="" map="amap"></map>
